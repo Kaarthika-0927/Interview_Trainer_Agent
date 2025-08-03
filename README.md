@@ -3,11 +3,13 @@
 This project implements an Interview Trainer Agent using IBM Watsonx Assistant (Agent AI) with Retrieval-Augmented Generation (RAG) and Vector Index.
 The Agent helps users prepare for job interviews by providing role-specific questions, model answers, soft skill tips, HR guidelines, and industry expectations. It is designed to build user confidence and simulate a real interview environment.
 
+
 **Repository Contents**
 
 Project Report (PDF)
 
 README File
+
 
 **Features**
 
@@ -17,6 +19,7 @@ Resume-aware Answer Suggestions
 Soft Skill & Communication Tips
 Interview Preparation Strategies
 Industry-specific Expectations
+
 
 **Technology Stack**
 
